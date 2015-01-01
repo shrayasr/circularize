@@ -1,5 +1,7 @@
 # Circularize
 
+**WORK IN PROGRESS**
+
 At @Logicsoftind, we wanted to design new ID cards. I was wondering how to make
 things unique for each individual when I came up with this idea. It is based off
 an idea I saw buit by someone at one of the @hasgeek hackathons. Unsure what it
@@ -21,3 +23,17 @@ was.
 
 This would, in the end, create a unique circle for everyone. How this will be 
 used next, is really something that needs to be decided :) 
+
+## Usage
+
+* Install requirements inside virtualenv
+
+        $ virtualenv env
+        $ source env/bin/activate
+        (env) $ pip install -r requirements.txt
+
+* Call circularize with a file having 1 name per line
+
+        (env) $ python circularize.py people.txt 
+
+This will throw out png files with a circle in them unique to the name
