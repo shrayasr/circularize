@@ -37,3 +37,9 @@ used next, is really something that needs to be decided :)
         (env) $ python circularize.py people.txt 
 
 This will throw out png files with a circle in them unique to the name
+
+## Sample
+
+This is how it looks for my name - **Shrayas**
+
+![](http://i.imgur.com/MxsacHt.png)
