@@ -1,6 +1,8 @@
 # Circularize
 
-**WORK IN PROGRESS**
+**!!! WORK IN PROGRESS !!!**
+
+---
 
 At @Logicsoftind, we wanted to design new ID cards. I was wondering how to make
 things unique for each individual when I came up with this idea. It is based off
