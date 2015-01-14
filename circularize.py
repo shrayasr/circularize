@@ -1,4 +1,5 @@
 from PIL import Image, ImageDraw, ImageColor
+import hy
 import core
 import sys
 
