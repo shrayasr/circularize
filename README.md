@@ -36,7 +36,7 @@ used next, is really something that needs to be decided :)
 
 * Call circularize with a file having 1 name per line
 
-        (env) $ python circularize.py people.txt 
+        (env) $ hy circularize.py people.txt 
 
 This will throw out png files with a circle in them unique to the name
 
